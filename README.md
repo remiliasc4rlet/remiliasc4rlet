@@ -12,4 +12,4 @@
 > ADA, JavaScript, C++ ve C#
 * Öğreneceğim diller
 > TypeScript, Java ve Python
-* Sol tarafta eğer posta adresim varsa oradan yoksa site üzerinden ulşabilirsin.
+* Bana her ne kadar lazım olmasaqda sol tarafta eğer posta adresim varsa oradan yoksa site üzerinden ulaşabilirsin.
