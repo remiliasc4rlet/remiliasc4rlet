@@ -1,16 +1,15 @@
-### Hi there 👋
+## Merhaba beni merak eden hayatsız arkadaşım
 
-<!--
-**remiliasc4rlet/remiliasc4rlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Adım Kaan Yalçın soyadıma gerek yok
+* Genelde Remilia Sc4rlet, Arise ya da Kyaleina kullanıcı adlarını kullanırım.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### BÜYÜK i HARFiNDEN NEFRET EDERiM
+* Kendi çapında bir şeyler saçmalayan amacı olmayan bir yazılım öğrencisiyim.
+* Amaçsız da olsa kod yazmaktan zevk alıyorum ve şu an üzerinde çalıştığım bir internet sitesi (https://www.scarletdevilmansion.org) var.
+* Bildiğim diller
+> Html, Css, PHP ve SQL
+* Öğrendiğim diller
+> ADA, JavaScript, C++ ve C#
+* Öğreneceğim diller
+> TypeScript, Java ve Python
+* Sol tarafta eğer posta adresim varsa oradan yoksa site üzerinden ulşabilirsin.
